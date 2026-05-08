@@ -72,4 +72,4 @@ All artifacts align to:
 
 ## License
 
-MIT License — use freely, attribution appreciated.
+© 2026 Guru Krish. All rights reserved. This work may be shared with attribution for non-commercial purposes. For consulting or commercial use, contact gurukrish81@gmail.com
