@@ -253,4 +253,4 @@ Risk tier assignments are not permanent. The following changes trigger a mandato
 
 ---
 
-*Part of the Trust-by-Design Toolkit by Guru Krish. MIT License.*
+*Part of the Trust-by-Design Toolkit by Guru Krish. © 2026 Guru Krish. All rights reserved. This work may be shared with attribution for non-commercial purposes. For consulting or commercial use, contact gurukrish81@gmail.com.*
