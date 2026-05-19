@@ -14,7 +14,7 @@ Status: Active development · Last updated May 2026
 The Trust-by-Design Toolkit is an open-source governance framework for security and risk leaders who need to deploy AI systems safely at enterprise scale — not as a policy exercise, but as a repeatable, enforceable control architecture.
 
 It is built from direct implementation experience:
-- Architecting an LLM-driven governance pipeline on **AWS Bedrock** at Amazon, reducing data access resolution from 7 weeks to 1 week
+- Building and deploying an LLM-based classification system on AWS Bedrock, reducing data access resolution time by 80%
 - Designing **Risk Inspector**, a global security governance platform across **150+ business units** at Google
 - Leading AI/ML governance across **50+ programs and 14 corporate verticals** at Google
 
@@ -74,5 +74,5 @@ All artifacts align to:
 
 ## License
 
-© 2026 Guru Krish. All rights reserved. This work may be shared with attribution for non-commercial purposes. For commercial or enterprise use, contact gurukrish81@gmail.com
+© 2026 Guru Krish. All rights reserved. Licensed under CC Attribution-NonCommercial 4.0 — free to share with attribution for non-commercial use. Commercial or enterprise use: gurukrish81@gmail.com
 
