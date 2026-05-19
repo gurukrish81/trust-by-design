@@ -1,4 +1,6 @@
 # Trust-by-Design Toolkit
+Status: Active development · Last updated May 2026
+
 ### A Practical Governance Framework for Safe Enterprise AI
 
 **Author:** Guru Krish | Director — AI Governance, Security & Platform Systems  
@@ -37,15 +39,15 @@ trust-by-design/
 ├── frameworks/
 │   ├── 01-risk-tiering-framework.md   ← How to classify AI risk (4 tiers)
 │   ├── 02-llm-guardrail-patterns.md   ← Guardrail enforcement patterns
-│   ├── 03-agentic-ai-threat-model.md  ← Threat model for autonomous AI
-│   ├── 04-evaluation-framework.md     ← Pre-deployment + ongoing evaluation
-│   └── 05-compliance-by-design.md     ← GDPR, HIPAA, SOX touchpoints in AI
+│   ├── 03-agentic-ai-threat-model.md  ← Threat model for autonomous AI (coming soon)
+│   ├── 04-evaluation-framework.md     ← Pre-deployment + ongoing evaluation (coming soon)
+│   └── 05-compliance-by-design.md     ← GDPR, HIPAA, SOX touchpoints in AI (coming soon)
 ├── case-studies/
-│   └── 06-enterprise-llm-case-study.md ← Anonymized Bedrock pipeline case study
-├── notebooks/
-│   └── 01-pii-detector.ipynb          ← Working PII detection tool (Python)
+│   └── 06-enterprise-llm-case-study.md ← Anonymized Bedrock pipeline case study (coming soon)
+├── notebooks/ 
+│   └── 01-pii-detector.ipynb          ← Working PII detection tool (Python) (coming soon)
 └── starter-kit/
-    └── 07-ai-governance-starter-kit.md ← Quick-start guide for enterprises
+    └── 07-ai-governance-starter-kit.md ← Quick-start guide for enterprises (coming soon)
 ```
 
 ---
@@ -72,4 +74,5 @@ All artifacts align to:
 
 ## License
 
-© 2026 Guru Krish. All rights reserved. This work may be shared with attribution for non-commercial purposes. For consulting or commercial use, contact gurukrish81@gmail.com
+© 2026 Guru Krish. All rights reserved. This work may be shared with attribution for non-commercial purposes. For commercial or enterprise use, contact gurukrish81@gmail.com
+
