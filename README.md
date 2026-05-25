@@ -74,5 +74,6 @@ All artifacts align to:
 
 ## License
 
-© 2026 Guru Krish. All rights reserved. Licensed under CC Attribution-NonCommercial 4.0 — free to share with attribution for non-commercial use. Commercial or enterprise use: gurukrish81@gmail.com
+© 2026 Guru Krish — Trust by Design. All rights reserved. Trust by Design is a proprietary framework. Content may not be reproduced without written permission. For use: krish@gurukrish.org
+
 
