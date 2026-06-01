@@ -39,7 +39,7 @@ trust-by-design/
 ├── frameworks/
 │   ├── 01-risk-tiering-framework.md   ← How to classify AI risk (4 tiers)
 │   ├── 02-llm-guardrail-patterns.md   ← Guardrail enforcement patterns
-│   ├── 03-agentic-ai-threat-model.md  ← Threat model for autonomous AI (coming soon)
+│   ├── 03-agentic-ai-threat-model.md  ← Threat model for autonomous AI
 │   ├── 04-evaluation-framework.md     ← Pre-deployment + ongoing evaluation (coming soon)
 │   └── 05-compliance-by-design.md     ← GDPR, HIPAA, SOX touchpoints in AI (coming soon)
 ├── case-studies/
