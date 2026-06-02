@@ -4,7 +4,7 @@ Status: Active development · Last updated May 2026
 ### A Practical Governance Framework for Safe Enterprise AI
 
 **Author:** Guru Krish | Director — AI Transformation, Governance, Security & Platform Systems  
-**Contact:** gurukrish81@gmail.com | [linkedin.com/in/gurukrish](https://linkedin.com/in/gurukrish)  
+**Contact:** krish@gurukrish.org | [linkedin.com/in/gurukrish](https://linkedin.com/in/gurukrish)  
 **Background:** ex-Google · ex-Amazon | Austin, TX
 
 ---
