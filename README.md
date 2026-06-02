@@ -6,6 +6,7 @@ Status: Active development · Last updated May 2026
 **Author:** Guru Krish | Director — AI Transformation, Governance, Security & Platform Systems  
 **Contact:** krish@gurukrish.org | [linkedin.com/in/gurukrish](https://linkedin.com/in/gurukrish)  
 **Background:** ex-Google · ex-Amazon | Austin, TX
+**Portfolio:** [gurukrish.org](https://gurukrish.org)  
 
 ---
 
