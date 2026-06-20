@@ -1,0 +1,58 @@
+{
+  "nodes": [
+    {
+      "parameters": {
+        "values": {
+          "string": [
+            {
+              "name": "use_case_description",
+              "value": "We want to launch an autonomous customer service chatbot on our website. It will ask for customer names and email addresses to verify identities using a public LLM cluster."
+            }
+          ]
+        }
+      },
+      "id": "trigger-node",
+      "name": "Simulated Intake Trigger",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [400, 300]
+    },
+    {
+      "parameters": {
+        "url": "PASTE_YOUR_GITHUB_RAW_URL_HERE",
+        "options": {}
+      },
+      "id": "github-node",
+      "name": "Fetch GitHub Policy",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [620, 300]
+    },
+    {
+      "parameters": {
+        "options": {}
+      },
+      "id": "agent-node",
+      "name": "AI Governance Agent",
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 1.7,
+      "position": [860, 300]
+    },
+    {
+      "parameters": {
+        "model": "claude-3-5-sonnet-latest",
+        "options": {}
+      },
+      "id": "model-node",
+      "name": "Anthropic Chat Model",
+      "type": "@n8n/n8n-nodes-langchain.lmChatAnthropic",
+      "typeVersion": 1.2,
+      "position": [860, 520]
+    }
+  ],
+  "connections": {
+    "Simulated Intake Trigger": { "main": [[{ "node": "Fetch GitHub Policy", "type": "main", "index": 0 }]] },
+    "Fetch GitHub Policy": { "main": [[{ "node": "AI Governance Agent", "type": "main", "index": 0 }]] },
+    "Anthropic Chat Model": { "ai_languageModel": [[{ "node": "AI Governance Agent", "type": "ai_languageModel", "index": 0 }]] }
+  }
+}
