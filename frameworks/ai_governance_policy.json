@@ -1,0 +1,9 @@
+{
+  "policy_version": "2026.2",
+  "tiers": {
+    "Low": "Internal productivity tools only. No PII, no financial impact, and no automated decisions impacting humans. Example: Code autocomplete.",
+    "Medium": "Internal tools handling generic data, or customer-facing tools with human-in-the-loop validation. Example: Support email drafts.",
+    "High": "Customer-facing autonomous systems, processing unencrypted customer PII, or production code generation. Example: Customer chatbots.",
+    "Critical": "Automated pipelines impacting employment, finance, or legal standings, or sending raw PII to public models. Example: Automated resume screening."
+  }
+}
