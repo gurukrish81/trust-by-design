@@ -1,7 +1,7 @@
 # Trust-by-Design Toolkit
 Status: Active development · Last updated June 2026
 
-### A Practical Governance Framework for Safe Enterprise AI
+### Enterprise AI Transformation, Security & Governance Framework
 
 **Author:** Guru Krish | Director — AI Transformation, Governance, Security & Platform Systems  
 **Contact:** krish@gurukrish.org | [linkedin.com/in/gurukrish](https://linkedin.com/in/gurukrish)  
