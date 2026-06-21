@@ -12,7 +12,7 @@ Status: Active development · Last updated June 2026
 
 ## What This Is
 
-The Trust-by-Design Toolkit is an open-source governance framework for security and risk leaders who need to deploy AI systems safely at enterprise scale — not as a policy exercise, but as a repeatable, enforceable control architecture.
+Trust by Design is the enterprise operating system for AI — the strategy, architecture, controls, and governance model that makes AI safe enough to trust and scalable enough to matter.
 
 It is built from direct implementation experience:
 - Building and deploying an LLM-based classification system on AWS Bedrock, reducing data access resolution time by 80%
@@ -43,12 +43,13 @@ trust-by-design/
 │   ├── 03-agentic-ai-threat-model.md  ← Threat model for autonomous AI
 │   ├── 04-evaluation-framework.md     ← Pre-deployment + ongoing evaluation
 │   └── 05-compliance-by-design.md     ← GDPR, HIPAA, SOX touchpoints in AI
+|   └── 06-ai-dev-productivity-measurement.md - DORA metrics
 ├── case-studies/
-│   └── 06-enterprise-llm-case-study.md ← Anonymized Bedrock pipeline case study (coming soon)
+│   └── 07-enterprise-llm-case-study.md ← Anonymized Bedrock pipeline case study
 ├── notebooks/ 
 │   └── 01-pii-detector.ipynb          ← Working PII detection tool (Python) (coming soon)
 └── starter-kit/
-    └── 07-ai-governance-starter-kit.md ← Quick-start guide for enterprises (coming soon)
+    └── 08-ai-transformation-starter-kit.md ← Quick-start guide for enterprises
 ```
 
 ---
